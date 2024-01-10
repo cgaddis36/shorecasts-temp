@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './scCircle.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          ShoreCasts is under construction.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://shrimp-republic.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit our other apps in the meantime. 
         </a>
       </header>
     </div>
